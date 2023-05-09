@@ -34,7 +34,9 @@ FILE LIST WITH DESCRIPTIONS
 ------------------------------------
 
 **table_raw_counts.txt**  - table of raw read counts by gene for all the samples analyzed in the study.
+
 **DEG_A1ud.txt**  - list of differentially expressed genes with log fold change (logFC) and adjusted p-value (padj) for the comparison between higher (u = up) and lower (d = down) elevation in the alpine (A) ecotype of pair 1.
+
 **DEG_A1vsM1d.txt** - list of differentially expressed genes with log fold change (logFC) and adjusted p-value (padj) for the comparison between alpine and montane (M) ecotypes of pair 1 when grown at the lower elevation.
 **DEG_A1vsM1u.txt** - list of differentially expressed genes with log fold change (logFC) and adjusted p-value (padj) for the comparison between alpine and montane ecotypes of pair 1 when grown at the higher elevation.
 **DEG_A3ud.txt**  - list of differentially expressed genes with log fold change (logFC) and adjusted p-value (padj) for the comparison between higher and lower elevation in the alpine (A) ecotype of pair 3.
