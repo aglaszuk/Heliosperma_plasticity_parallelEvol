@@ -3,12 +3,12 @@ This repository contains the raw table of counts needed to reproduce the results
 
 Szukala, A., Bertel, C., Frajman, B., Schönswetter, P., Paun, O. Parallel adaptation to lower altitudes is associated with enhanced plasticity in *Heliosperma pusillum* (Caryophyllaceae). *bioRXiv* (https://doi.org/10.1101/2022.05.28.493825)
 
-##DATA
+DATA
 ------------------------------------
 
 Table of raw counts; lists of differentially expressed genes.
 
-##AUTHOR(S)
+AUTHOR(S)
 ------------------------------------
 
 Aglaia Szukala
@@ -30,7 +30,7 @@ Department of Botany and Biodiversity Research, University of Vienna
 Rennweg 14, 1030 Vienna, Austria
 Ovidiu.paun@univie.ac.at
 
-##FILE LIST WITH DESCRIPTIONS
+FILE LIST WITH DESCRIPTIONS
 ------------------------------------
 
 **table_raw_counts.txt**  - table of raw read counts by gene for all the samples analyzed in the study.
